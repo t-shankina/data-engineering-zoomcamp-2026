@@ -148,7 +148,7 @@ Use the pick up time for your calculations.
 - 2025-11-23
 - 2025-11-25
 
-### Solution
+### 
 
 2025-11-14
 
@@ -174,7 +174,7 @@ Which was the pickup zone with the largest `total_amount` (sum of all trips) on 
 - Morningside Heights
 - Forest Hills
 
-### Soltion
+### Solution
 
 East Harlem North
 
@@ -201,7 +201,7 @@ Note: it's `tip` , not `trip`. We need the name of the zone, not the ID.
 - East Harlem North
 - LaGuardia Airport
 
-### Soltion
+### Solution
 
 Yorkville West
 
@@ -244,6 +244,9 @@ Answers:
 - terraform init, terraform apply -auto-approve, terraform destroy
 - terraform import, terraform apply -y, terraform rm
 
+### Solution
+
+terraform init, terraform apply -auto-approve, terraform destroy
 
 ## Submitting the solutions
 
@@ -300,4 +303,3 @@ My solution: <LINK>
 
 Free course by @DataTalksClub: https://github.com/DataTalksClub/data-engineering-zoomcamp/
 ```
-
