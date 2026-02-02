@@ -80,6 +80,7 @@ If multiple answers are correct, select any
 ### Solution
 
 postgres:5432
+db:5432
 
 How to check:
 
