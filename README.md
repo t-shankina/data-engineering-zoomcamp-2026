@@ -2,4 +2,12 @@
 
 ## Module 1: Docker and Terraform
 
-- [Module 1 Homework](01-docker-terraform/homework.md)
+- [Homework](01-docker-terraform/homework.md)
+
+## Module 2: Workflow Orchestration
+
+- [Homework](02-workflow-orchestration/homework.md)
+
+## Module 3: Data Warehouse
+
+- [Homework](03-data-warehouse/homework.md)
