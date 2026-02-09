@@ -1,6 +1,6 @@
 variable "gcp_credentials" {
   description = "GCP Credentials"
-  default     = "../../.secrets/gcp-key.json" # TODO set path to your json file with GCP Service Account key
+  default     = "../.secrets/gcp-key.json" # TODO set path to your json file with GCP Service Account key
 }
 
 variable "project" {
