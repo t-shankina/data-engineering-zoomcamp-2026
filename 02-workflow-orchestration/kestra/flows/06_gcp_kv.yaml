@@ -6,7 +6,7 @@ tasks:
     type: io.kestra.plugin.core.kv.Set
     key: GCP_PROJECT_ID
     kvType: STRING
-    value: kestra-sandbox-486202 # TODO replace with your project id
+    value: dezoomcamp-2026-486917 # TODO replace with your project id
 
   - id: gcp_location
     type: io.kestra.plugin.core.kv.Set
@@ -18,10 +18,10 @@ tasks:
     type: io.kestra.plugin.core.kv.Set
     key: GCP_BUCKET_NAME
     kvType: STRING
-    value: kestra-sandbox-486202-bucket # TODO make sure it is globally unique
+    value: hw2_determined_hellman # TODO make sure it is globally unique
 
   - id: gcp_dataset
     type: io.kestra.plugin.core.kv.Set
     key: GCP_DATASET
     kvType: STRING
-    value: zoomcamp
+    value: nytaxi
