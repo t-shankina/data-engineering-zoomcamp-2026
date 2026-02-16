@@ -224,3 +224,5 @@ __marimo__/
 # to change depending on the environment.
 *.tfvars
 *.tfvars.json
+
+profiles.yml
