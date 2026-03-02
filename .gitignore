@@ -226,3 +226,9 @@ __marimo__/
 *.tfvars.json
 
 profiles.yml
+.bruin.yml
+logs/runs
+logs/*.log
+*.py[cod]
+logs/queries
+duckdb.db

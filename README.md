@@ -11,3 +11,11 @@
 ## Module 3: Data Warehouse
 
 - [Homework](03-data-warehouse/homework.md)
+
+## Module 4: Analytics Engineering
+
+- [Homework](04-analytics-engineering/homework.md)
+
+## Module 5: Data Platforms
+
+- [Homework](05-data-platforms/homework.md)
