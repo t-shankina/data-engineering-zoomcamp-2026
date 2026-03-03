@@ -19,3 +19,9 @@
 ## Module 5: Data Platforms
 
 - [Homework](05-data-platforms/homework.md)
+
+## Workshops
+
+### dlt
+
+- [Homework](workshops/dlt/homework.md)
